@@ -24,12 +24,13 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 - [机器学习-Mitchell](Library/machinereinforcementLearning/机器学习-Mitchell-中文-清晰版.pdf)
 - [动动手深度学习](Library/machinereinforcementLearning/动手学深度学习v2-李沐.pdf)
 
-## Unity Game
+## Game
+#### Unity Game
 - [Game Audio with FMOD and Unity](Library/unityGame/Game_Audio_with_FMOD_and_Unity.pdf)
 - [Punk Playthings](Library/unityGame/Punk_Playthings.pdf)
 - [Creating Games with Unity Substance Painter Maya](https://pan.baidu.com/s/1ryoy-wl2TNuRNVM3HQjDKA?pwd=wssb)
 - [2D像素风格游戏制作教学](Library/unityGame/Unity_2D像素风格游戏制作教学.pdf)
-#### AI
+#### Game AI Design
 - [Game AI Pro  Collected Wisdom of Game AI Professionals (Steve Rabin) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_Collected_Wisdom_of_Game_AI_Professionals.pdf)
 - [Game AI Pro 2 Collected Wisdom of Game AI Professionals (Steve Rabin) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_2_Collected_Wisdom_of_Game_AI_Professionals.pdf)
 - [Game AI Pro 3 Collected Wisdom of Game AI Professionals (Steve Rabin) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_3_Collected_Wisdom_of_Game_AI_Professionals.pdf)
