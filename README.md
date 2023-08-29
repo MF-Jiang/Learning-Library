@@ -7,16 +7,20 @@ This respository is used to store some electronic books that I come into contact
 - [Algorithm Design](Library/algorithm/Algorithm_design.pdf) [算法设计中文版](Library/algorithm/算法设计.pdf)
   
 ## Math
-- [Logic in Computer Science Modelling and Reasoning about Systems](Library/math/Logic_in_Computer_Science_Modelling_and_Reasoning_about_Systems.pdf)
-- [面向计算机科学的数理逻辑系统建模与推理](Library/math/面向计算机科学的数理逻辑系统建模与推理.pdf)
+- [Logic in Computer Science Modelling and Reasoning about Systems](Library/math/Logic_in_Computer_Science_Modelling_and_Reasoning_about_Systems.pdf) [面向计算机科学的数理逻辑系统建模与推理中文版](Library/math/面向计算机科学的数理逻辑系统建模与推理.pdf)
 - [统计学习方法第2版](https://pan.baidu.com/s/1Se9XqG6MguXAIU7CzkB6_g?pwd=wssb)
 
 ## Programming Language
 #### C/C++
 - [C Primer Plus](Library/programmingLanguage/C_Primer_Plus.pdf)
+#### Python
+- [Python编程：从入门到实践](Library/programmingLanguage/Python编程：从入门到实践.pdf)
 
-## Reinforcement Learning
--[动动手深度学习](Library/reinforcementLearning/动手学深度学习v2-李沐.pdf)
+## Machine Learning and Reinforcement Learning
+- [机器学习西瓜书](Library/machinereinforcementLearning/周志华-机器学习-西瓜书.pdf)
+- [机器学习南瓜书](Library/machinereinforcementLearning/机器学习-南瓜书.pdf)
+- [机器学习-Mitchell](Library/machinereinforcementLearning/机器学习-Mitchell-中文-清晰版.pdf)
+- [动动手深度学习](Library/machinereinforcementLearning/动手学深度学习v2-李沐.pdf)
 
 ## Unity Game
 - [2D像素风格游戏制作教学](Library/unityGame/Unity_2D像素风格游戏制作教学.pdf)
