@@ -6,5 +6,12 @@ This respository is used to store some electronic books that I come into contact
 - [Introduction to algorithms third edition](Library/algorithm/introduction_to_algorithms_third_edition_en.pdf) [算法导论中文版](https://pan.baidu.com/s/1fMJ-v2fVpGuMp0VcCKENjg?pwd=wssb )
 - [Algorithm Design](Library/algorithm/Algorithm_design.pdf) [算法设计中文版](Library/algorithm/算法设计.pdf)
   
+## Math
+- [Logic in Computer Science Modelling and Reasoning about Systems](Library/math/Logic_in_Computer_Science_Modelling_and_Reasoning_about_Systems.pdf)
+- [面向计算机科学的数理逻辑系统建模与推理](Library/math/面向计算机科学的数理逻辑系统建模与推理.pdf)
+- [统计学习方法第2版](https://pan.baidu.com/s/1Se9XqG6MguXAIU7CzkB6_g?pwd=wssb)
 
+## Programming Language
+#### C/C++:
+- [C Primer Plus](Library/programming language/C_Primer_Plus.pdf)
 
