@@ -1,6 +1,8 @@
 # Learning Library
 This respository is used to store some electronic books that I come into contact with while studying
 
+Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, which can be clicked according to the directory and automatically jump to Baidu Web disk for download.
+
 ## Algorithm：
 - [Data Structures and Algorithms in Java 6th Edition](Library/algorithm/Data-Structures-and-Algorithms-in-Java-6th-Edition.pdf)
 - [Introduction to algorithms third edition](Library/algorithm/introduction_to_algorithms_third_edition_en.pdf) [算法导论中文版](https://pan.baidu.com/s/1fMJ-v2fVpGuMp0VcCKENjg?pwd=wssb )
@@ -23,4 +25,7 @@ This respository is used to store some electronic books that I come into contact
 - [动动手深度学习](Library/machinereinforcementLearning/动手学深度学习v2-李沐.pdf)
 
 ## Unity Game
+- [Game Audio with FMOD and Unity](Library/unityGame/Game_Audio_with_FMOD_and_Unity.pdf)
+- [Punk Playthings](Library/unityGame/Punk_Playthings.pdf)
+- [Creating Games with Unity Substance Painter Maya](https://pan.baidu.com/s/1ryoy-wl2TNuRNVM3HQjDKA?pwd=wssb)
 - [2D像素风格游戏制作教学](Library/unityGame/Unity_2D像素风格游戏制作教学.pdf)
