@@ -29,3 +29,11 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 - [Punk Playthings](Library/unityGame/Punk_Playthings.pdf)
 - [Creating Games with Unity Substance Painter Maya](https://pan.baidu.com/s/1ryoy-wl2TNuRNVM3HQjDKA?pwd=wssb)
 - [2D像素风格游戏制作教学](Library/unityGame/Unity_2D像素风格游戏制作教学.pdf)
+#### AI
+- [Game AI Pro  Collected Wisdom of Game AI Professionals (Steve Rabin) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_Collected_Wisdom_of_Game_AI_Professionals.pdf)
+- [Game AI Pro 2 Collected Wisdom of Game AI Professionals (Steve Rabin) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_2_Collected_Wisdom_of_Game_AI_Professionals.pdf)
+- [Game AI Pro 3 Collected Wisdom of Game AI Professionals (Steve Rabin) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_3_Collected_Wisdom_of_Game_AI_Professionals.pdf)
+- [Game AI Pro 360 Guide to Architecture (Steve Rabin (Author)) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_360_Guide_to_Architecture.pdf)
+- [Game AI Pro 360 Guide to Character Behavior (Steve Rabin (Author)) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_360_Guide_to_Character_Behavior.pdf)
+- [Game AI Pro 360 Guide to Movement and Pathfinding (Steve Rabin (Author)) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_360_Guide_to_Movement_and_Pathfinding.pdf)
+- [Game AI Pro 360 Guide to Tactics and Strategy (Steve Rabin (Author)) (Z-Library)](Library/unityGame/AI/Game_AI_Pro_360_Guide_to_Tactics_and_Strategy.pdf)
