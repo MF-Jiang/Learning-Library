@@ -12,6 +12,11 @@ This respository is used to store some electronic books that I come into contact
 - [统计学习方法第2版](https://pan.baidu.com/s/1Se9XqG6MguXAIU7CzkB6_g?pwd=wssb)
 
 ## Programming Language
-#### C/C++:
-- [C Primer Plus](Library/programming language/C_Primer_Plus.pdf)
+#### C/C++
+- [C Primer Plus](Library/programmingLanguage/C_Primer_Plus.pdf)
 
+## Reinforcement Learning
+-[动动手深度学习](Library/reinforcementLearning/动手学深度学习v2-李沐.pdf)
+
+## Unity Game
+- [2D像素风格游戏制作教学](Library/unityGame/Unity 2D像素风格游戏制作教学.pdf)
