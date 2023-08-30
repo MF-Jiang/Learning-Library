@@ -18,6 +18,7 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 ## Math
 - [CS103 Mathematical Foundations of Computing](Library/math/斯坦福大学Mathematical_Foundations_of_Computing教材.pdf) [中英文对照版](Library/math/斯坦福大学Mathematical_Foundations_of_Computing教材中英文对照.pdf)
 - [Logic in Computer Science Modelling and Reasoning about Systems](Library/math/Logic_in_Computer_Science_Modelling_and_Reasoning_about_Systems.pdf) [面向计算机科学的数理逻辑系统建模与推理中文版](Library/math/面向计算机科学的数理逻辑系统建模与推理.pdf)
+- [Foundation of Computation](Library/math/FoundationsOfComputation_2.3.2_8.5x11.pdf)
 - [统计学习方法第2版](https://pan.baidu.com/s/1Se9XqG6MguXAIU7CzkB6_g?pwd=wssb)
 
 ## Programming Language
@@ -51,6 +52,13 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 ## Network
 - [Computer Networks A Systems Approach](Library/network/Computer_Networks_A_Systems_Approach.pdf)
 - [An Introduction to Computer Networks - Second Edition](Library/network/An_Introduction_to_Computer_Networks_Second_Edition.pdf)
+- [Computer-Networking-Principles-Bonaventure-1-30-31-OTC1](Library/network/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
+
+## CV&CG
+- [Introduction to Computer Graphics](Library/CVCG/graphicsbook.pdf)
+
+## Database
+- [Database Design - 2nd Edition](Library\Database\Database-Design-2nd-Edition-1660153697.pdf)
 
 ## Git
 - [Pro Git: Everything You Need to Know About Git](Library/git/progit.pdf) [中文版](Library/git/progitcn.pdf)
