@@ -25,6 +25,7 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 - [Python编程：从入门到实践](Library/programmingLanguage/Python编程：从入门到实践.pdf)
 
 ## AI
+- [Pattern Recognition and Machine Learning](Library/machinereinforcementLearning/Pattern.Recognition.and.Machine.Learning.pdf) [中英对照版](Library/machinereinforcementLearning/Pattern.Recognition.and.Machine.Learning中英文对照.pdf)
 - [Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig, 3rd Edition, 978-0132071482, Pearson Education](Library/machinereinforcementLearning/ScienceDirect_articles_30Aug2023.pdf)
 - [Heuristic Methods](Library/machinereinforcementLearning/heuristic_methods.pdf)
 - [Game Theory by Don Ross Stanford Encyclopedia of Philosophy](Library/machinereinforcementLearning/Game_Theory_by_Don_Ross_Stanford_Encyclopedia_of_Philosophy.pdf)
