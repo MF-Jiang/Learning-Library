@@ -27,6 +27,11 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 - [CS106L Standard C++ Programming Laboratory](Library/programmingLanguage/斯坦福大学的C++程序设计基础.pdf) [中英文对照版](Library/programmingLanguage/斯坦福大学的C++程序设计基础中英文对照.pdf)
 #### Python
 - [Python编程：从入门到实践](Library/programmingLanguage/Python编程：从入门到实践.pdf)
+#### Java
+- [Java Coding Interview](Library/programmingLanguage/Java-JavaScript123uo00es0301.pdf)
+#### JavaScript
+- [JavaScript The Definitive Guide Master the Worlds Most-Used Programming Language (2020)-40147](Library/programmingLanguage/JavaScript_The_Definitive_Guide_Master_the_Worlds_Most_Used_Programming_Language.pdf)
+- [Developper des Jeux en HTML5 and JavaScript](Library/programmingLanguage/Developper_des_Jeux_en_HTML5_and_JavaScript_Multijoueur_temps_reel_avec_Node.js_et_integration_Facebook_Free_Pdf_Books-78610.pdf)
 
 ## AI
 - [Artificial Intelligence A Modern Approach, 3rd Global Edition](Library/machinereinforcementLearning/Artificial_Intelligence_A_Modern_Approach_3rd_Global_Edition.pdf) [中英文对照版](https://pan.baidu.com/s/1jo3IKpb7KDvTs5mHpFoK7w?pwd=wssb)
