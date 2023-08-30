@@ -6,6 +6,7 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 ## Computer Fundamental
 - [Patterson, David A., and John L. Hennessy. Computer Organization and Design MIPS Edition The HardwareSoftware Interface. Newnes, 2013](Library/computerFundamental/Computer_Organization_and_Design_MIPS_Edition_The_HardwareSoftware_Interface.pdf)
 - [Nisan, Noam, and Shimon Schocken. The elements of computing systems building a modern computer from first principles. MIT press, 2005](Library/computerFundamental/The_elements_of_computing_systems_building_a_modern_computer_from_first_principles.pdf)
+- [A Simple Computer Design with Monitor Interface Integrating Hardware and Software in Early Research in Computer Science.pdf](Library/computerFundamental/A_Simple_Computer_Design_with_Monitor_Interface_Integrating_Hardware_and_Software_in_Early_Research_in_Computer_Science.pdf)
 
 ## Algorithm：
 - [Data Structures and Algorithms in Java 6th Edition](Library/algorithm/Data-Structures-and-Algorithms-in-Java-6th-Edition.pdf)
@@ -18,11 +19,18 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 
 ## Programming Language
 #### C/C++
-- [C Primer Plus](Library/programmingLanguage/C_Primer_Plus.pdf)
+- [C: How to Program中文版](Library/programmingLanguage/C_How_to_Program中文版.pdf)
+- [C Primer Plus中文版](Library/programmingLanguage/C_Primer_Plus.pdf)
 #### Python
 - [Python编程：从入门到实践](Library/programmingLanguage/Python编程：从入门到实践.pdf)
 
-## Machine Learning and Reinforcement Learning
+## AI
+- [Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig, 3rd Edition, 978-0132071482, Pearson Education](Library/machinereinforcementLearning/ScienceDirect_articles_30Aug2023.pdf)
+- [Heuristic Methods](Library/machinereinforcementLearning/heuristic_methods.pdf)
+- [Game Theory by Don Ross Stanford Encyclopedia of Philosophy](Library/machinereinforcementLearning/Game_Theory_by_Don_Ross_Stanford_Encyclopedia_of_Philosophy.pdf)
+- [Fuzzy Logic](Library/machinereinforcementLearning/fuzzy_logic.pdf)
+- [Evolutionary Computations](Library/machinereinforcementLearning/Evolutionary_Computations.pdf)
+- [Evolutionary Game Theory](Library/machinereinforcementLearning/evolutionary_game_theory_notes.pdf)
 - [机器学习西瓜书](Library/machinereinforcementLearning/周志华-机器学习-西瓜书.pdf)
 - [机器学习南瓜书](Library/machinereinforcementLearning/机器学习-南瓜书.pdf)
 - [机器学习-Mitchell](Library/machinereinforcementLearning/机器学习-Mitchell-中文-清晰版.pdf)
