@@ -3,6 +3,10 @@ This respository is used to store some electronic books that I come into contact
 
 Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, which can be clicked according to the directory and automatically jump to Baidu Web disk for download.
 
+## Computer Fundamental
+- [Patterson, David A., and John L. Hennessy. Computer Organization and Design MIPS Edition The HardwareSoftware Interface. Newnes, 2013](Library/computerFundamental/Computer_Organization_and_Design_MIPS_Edition_The_HardwareSoftware_Interface.pdf)
+- [Nisan, Noam, and Shimon Schocken. The elements of computing systems building a modern computer from first principles. MIT press, 2005](Library/computerFundamental/The_elements_of_computing_systems_building_a_modern_computer_from_first_principles.pdf)
+
 ## Algorithm：
 - [Data Structures and Algorithms in Java 6th Edition](Library/algorithm/Data-Structures-and-Algorithms-in-Java-6th-Edition.pdf)
 - [Introduction to algorithms third edition](Library/algorithm/introduction_to_algorithms_third_edition_en.pdf) [算法导论中文版](https://pan.baidu.com/s/1fMJ-v2fVpGuMp0VcCKENjg?pwd=wssb )
