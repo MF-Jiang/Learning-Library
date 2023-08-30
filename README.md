@@ -50,6 +50,7 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 
 ## Network
 - [Computer Networks A Systems Approach](Library/network/Computer_Networks_A_Systems_Approach.pdf)
+- [An Introduction to Computer Networks - Second Edition](Library/network/An_Introduction_to_Computer_Networks_Second_Edition.pdf)
 
 ## Git
 - [Pro Git: Everything You Need to Know About Git](Library/git/progit.pdf) [中文版](Library/git/progitcn.pdf)
