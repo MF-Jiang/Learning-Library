@@ -37,7 +37,6 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 ## AI
 - [Artificial Intelligence A Modern Approach, 3rd Global Edition](Library/machinereinforcementLearning/Artificial_Intelligence_A_Modern_Approach_3rd_Global_Edition.pdf) [中英文对照版](https://pan.baidu.com/s/1jo3IKpb7KDvTs5mHpFoK7w?pwd=wssb)
 - [Pattern Recognition and Machine Learning](Library/machinereinforcementLearning/Pattern.Recognition.and.Machine.Learning.pdf) [中英对照版](Library/machinereinforcementLearning/Pattern.Recognition.and.Machine.Learning中英文对照.pdf)
-- [Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig, 3rd Edition, 978-0132071482, Pearson Education](Library/machinereinforcementLearning/ScienceDirect_articles_30Aug2023.pdf)
 - [Heuristic Methods](Library/machinereinforcementLearning/heuristic_methods.pdf)
 - [Game Theory by Don Ross Stanford Encyclopedia of Philosophy](Library/machinereinforcementLearning/Game_Theory_by_Don_Ross_Stanford_Encyclopedia_of_Philosophy.pdf)
 - [Fuzzy Logic](Library/machinereinforcementLearning/fuzzy_logic.pdf)
