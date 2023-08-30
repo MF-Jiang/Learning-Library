@@ -48,6 +48,12 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 - [机器学习-Mitchell](Library/machinereinforcementLearning/机器学习-Mitchell-中文-清晰版.pdf)
 - [动动手深度学习](Library/machinereinforcementLearning/动手学深度学习v2-李沐.pdf)
 
+## Network
+- [Computer Networks A Systems Approach](Library/network/Computer_Networks_A_Systems_Approach.pdf)
+
+## Git
+- [Pro Git: Everything You Need to Know About Git](Library/git/progit.pdf) [中文版](Library/git/progitcn.pdf)
+
 ## Game
 #### Unity Game
 - [Game Audio with FMOD and Unity](Library/unityGame/Game_Audio_with_FMOD_and_Unity.pdf)
