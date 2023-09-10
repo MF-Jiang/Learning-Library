@@ -83,7 +83,6 @@ Some e-books larger than 100mb are restricted by lfs and cannot be uploaded, whi
 - [Game Audio with FMOD and Unity](Library/unityGame/Game_Audio_with_FMOD_and_Unity.pdf)
 - [Punk Playthings](Library/unityGame/Punk_Playthings.pdf)
 - [Creating Games with Unity Substance Painter Maya](https://pan.baidu.com/s/1ryoy-wl2TNuRNVM3HQjDKA?pwd=wssb)
-- [2D像素风格游戏制作教学](Library/unityGame/Unity_2D像素风格游戏制作教学.pdf)
 - [Unity Shader入门精要.pdf](Library/unityGame/Unity_Shader入门精要.pdf)
 
 #### other programming language game
